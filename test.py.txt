@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 print("32423")
 # i corrected
+=======
+print("32423")
+>>>>>>> parent of a4cc43d... Testing changes
